@@ -170,7 +170,7 @@ function Hero() {
             <div className="absolute -top-10 -right-10 w-80 h-80 bg-powder-rose/30 rounded-full" />
             <div className="relative z-10">
               <img
-                src="https://images.unsplash.com/photo-1560066986-54917a0b1d6d?w=600&h=750&fit=crop&crop=faces"
+                src="https://ru.pinterest.com/pin/5981412001657519/"
                 alt="Красота и стиль"
                 className="w-full max-w-md mx-auto rounded-[40% 60% 55% 45% / 55% 45% 55% 45%] shadow-2xl object-cover"
               />
